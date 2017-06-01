@@ -1,16 +1,12 @@
 <style type="text/css">
 	
-	
 
-	#btn {
-		background-image: url(like.jpeg);
-		background-color: red;
-	}
+}
 </style>
 
 <div align="middle" class="brd">
 	<form method="post">
-		<input type="submit" name="like" id="btn" src="like.jpeg"><img src="like.jpeg">
+		<input type="image" src="like.jpeg" name="like" value="like">
 	</form>
 </div>
 

@@ -13,7 +13,7 @@
  		"Loo faili ülesse laadimise vorm. Luba laadida ülesse vaid tekstifaile. Kuva ülesse laetud failide arv.",
  + 		"OK - Loo lehekülje hindamise võimalus (skaalal 1-5 näiteks). Kuva välja leheküljele antud keskmist hinnet. Andmed salvesta andmebaasi.",
  +		"OK - Loo lehekülje hindamise võimalus (skaalal 1-5 näiteks). Kuva välja leheküljele antud keskmist hinnet. Andmed salvesta tekstifaili.",
- 		"POOLENI - Loo leheküljele \"like\" nupp. Kuva välja \"like\"-ide arvu. Andmed salvesta andmebaasi.",
+ +		"OK - Loo leheküljele \"like\" nupp. Kuva välja \"like\"-ide arvu. Andmed salvesta andmebaasi.",
  		"Loo leheküljele \"like\" nupp. Kuva välja \"like\"-ide arvu. Andmed salvesta tekstifaili.",
  +		"OK - Loo veebilehekülg, mis kuvab kasutajale, mitmendat korda kasutaja lehekülge külastab (kylastamiseLoendur).",
  +		"OK - Loo veebilehekülg, mis kuvab kasutajale, kuna kasutaja viimati seda veebilehte külastas(kylastamiseLoendur).",

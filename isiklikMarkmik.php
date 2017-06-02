@@ -15,9 +15,9 @@ if(isset($_POST['name']) && isset($_POST['comment']))
 	$comment = htmlspecialchars($_POST['comment']) ;
 	$newentry = $comment."<br/>";
 
-	$file = $name.'.txt';
+	$file = $name.'.txt'; //Даем файлу имя пользователя + тхт
 	
-	file_put_contents($file, $newentry, FILE_APPEND | LOCK_EX);
+	file_put_contents($file, $newentry, FILE_APPEND | LOCK_EX); //если файл есть - дописываем, если нет - создаем и пишем
 
 
 	include $file;

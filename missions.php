@@ -7,7 +7,7 @@
  +		"OK - Loo lihtne kommentaaride lisamise vorm. Andmed salvesta tekstifaili. Kuva salvestatud kommentaare.",
  +		"OK - Loo lihtne veebilehe külastajate loendur. Andmed salvesta andmebaasi. Kuva lehel külastuste arvu.",
  +		"OK - Loo lihtne veebilehe külastajate loendur. Andmed salvesta tekstifaili. Kuva lehel külastuste arvu ja viimase külastuse aega.",
- +		"OK - Loo veebilehe külastajate IP-aadressite log. Andmed salvesta andmebaasi. Kuva erinevate IP-aadressite arvu.",
+ +		"??OK - Loo veebilehe külastajate IP-aadressite log. Andmed salvesta andmebaasi. Kuva erinevate IP-aadressite arvu.",
  		"Loo veebilehe külastajate IP-aadressite log. Andmed salvesta tekstifaili. Kuva külastuste arvu.",
  +		"OK - Loo faili ülesse laadimise vorm. Luba laadida ülesse vaid pildifaile. Kuva ülesse laetud failide arv. (UploadForm+UploadImage",
  		"Loo faili ülesse laadimise vorm. Luba laadida ülesse vaid tekstifaile. Kuva ülesse laetud failide arv.",
@@ -19,7 +19,7 @@
  +		"OK - Loo veebilehekülg, mis kuvab kasutajale, kuna kasutaja viimati seda veebilehte külastas(kylastamiseLoendur).",
  		"Pooleni - Loo veebilehekülg, mis kuvab, kas kasutaja kell on õige (ehk serveri kellaga sama). Kuva lehel ka mõlemad kellaajad."
  		/* Järeleksam 17.06.2016 */
-		"Loo lihtne lehekülg märkmete tegemiseks. Igal kasutajal on oma isiklikud märkmed.",
+ +		"OK - Loo lihtne lehekülg märkmete tegemiseks. Igal kasutajal on oma isiklikud märkmed.",
 		"Loo lihtne lehekülg märkmete tegemiseks. Kõik kasutajad näevad ja muudavad samu märkmeid.",
 		"Loo lihtne hääletuse süsteem. Kasutaja saab hääletada kas \"jah\"/\"ei\". Kuva välja \"jah\"-ide ja \"ei\"-de arv.",
 		"Loo lihtne kalkulaator, mis arvutab täisnurkse kolmnurga kahe kaateti järgi välja hüpotenuusi pikkuse.",

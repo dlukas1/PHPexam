@@ -10,14 +10,14 @@
  +		"??OK - Loo veebilehe külastajate IP-aadressite log. Andmed salvesta andmebaasi. Kuva erinevate IP-aadressite arvu.",
  		"Loo veebilehe külastajate IP-aadressite log. Andmed salvesta tekstifaili. Kuva külastuste arvu.",
  +		"OK - Loo faili ülesse laadimise vorm. Luba laadida ülesse vaid pildifaile. Kuva ülesse laetud failide arv. (UploadForm+UploadImage",
- 		"Loo faili ülesse laadimise vorm. Luba laadida ülesse vaid tekstifaile. Kuva ülesse laetud failide arv.",
+ +		"OK - Loo faili ülesse laadimise vorm. Luba laadida ülesse vaid tekstifaile. Kuva ülesse laetud failide arv.",
  + 		"OK - Loo lehekülje hindamise võimalus (skaalal 1-5 näiteks). Kuva välja leheküljele antud keskmist hinnet. Andmed salvesta andmebaasi.",
  +		"OK - Loo lehekülje hindamise võimalus (skaalal 1-5 näiteks). Kuva välja leheküljele antud keskmist hinnet. Andmed salvesta tekstifaili.",
  +		"OK - Loo leheküljele \"like\" nupp. Kuva välja \"like\"-ide arvu. Andmed salvesta andmebaasi.",
  		"Loo leheküljele \"like\" nupp. Kuva välja \"like\"-ide arvu. Andmed salvesta tekstifaili.",
  +		"OK - Loo veebilehekülg, mis kuvab kasutajale, mitmendat korda kasutaja lehekülge külastab (kylastamiseLoendur).",
  +		"OK - Loo veebilehekülg, mis kuvab kasutajale, kuna kasutaja viimati seda veebilehte külastas(kylastamiseLoendur).",
- 		"Pooleni - Loo veebilehekülg, mis kuvab, kas kasutaja kell on õige (ehk serveri kellaga sama). Kuva lehel ka mõlemad kellaajad."
+ +		"OK - Loo veebilehekülg, mis kuvab, kas kasutaja kell on õige (ehk serveri kellaga sama). Kuva lehel ka mõlemad kellaajad."
  		/* Järeleksam 17.06.2016 */
  +		"OK - Loo lihtne lehekülg märkmete tegemiseks. Igal kasutajal on oma isiklikud märkmed.",
 		"Loo lihtne lehekülg märkmete tegemiseks. Kõik kasutajad näevad ja muudavad samu märkmeid.",//то же самое, только файл один на всех и приписываем имя

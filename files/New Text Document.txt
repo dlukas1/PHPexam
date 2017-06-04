@@ -1,0 +1,26 @@
+﻿deleted from vordle
+	<!--
+/* Старый вариант, без базы данных, только то что забито
+***
+{
+		echo '<div style = "max-width: 200px;  padding: 10px;">';
+		echo '<img src="' .$row['pilt']. '"  height = "150px";">'."	 Motorattas: <strong>{$row['mudel']} </strong>Omadused: {$row['omadused']}  Hind : <i> {$row['hind']} </i>. <br/>"; 
+		echo '<input type="checkbox" value="<?php echo $id;?>" id="p<?php echo $id;?>" name="mudel"/>';
+	echo '</div>';
+	
+	}***
+
+	foreach($pildid as $id=>$pilt):?>
+		
+			<label for="p<?php echo $id;?>">
+				<img src="<?php echo $pilt['src'];?>" alt="<?php echo $pilt['alt'];?>" height="100" />
+			</label>
+			<input type="checkbox" value="<?php echo $id;?>" id="p<?php echo $id;?>" name="check_list[]"/>
+	
+	<?php endforeach;*/ -->
+	?>
+
+	<br><br>
+		<input type="submit" name="submit" value="Võrdle!"/>
+	<br><br>
+</form>
